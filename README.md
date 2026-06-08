@@ -17,6 +17,7 @@ Tenho experiência prática na construção de aplicações de ponta a ponta, cr
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
   <br>
   <!-- Backend -->
@@ -35,7 +36,7 @@ Tenho experiência prática na construção de aplicações de ponta a ponta, cr
     <td valign="top" width="50%">
       <h3>👁️ Engenharia Frontend</h3>
       <ul>
-        <li>Construção de SPAs modernas e performáticas utilizando <b>React</b> e <b>TypeScript</b>.</li>
+        <li>Construção de SPAs e aplicações SSR modernas e performáticas utilizando <b>React</b>, <b>Next.js</b> e <b>TypeScript</b>.</li>
         <li>Desenvolvimento baseado em componentes limpos, reutilizáveis e estilização avançada com <b>Tailwind CSS</b>.</li>
         <li>Foco total em responsividade, acessibilidade e excelente experiência do usuário (UX/UI).</li>
       </ul>
@@ -61,12 +62,17 @@ Tenho experiência prática na construção de aplicações de ponta a ponta, cr
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Linguagens Mais Utilizadas
 
 <p align="left">
-  <!-- ATENÇÃO: Substitua 'SEU-USUARIO-AQUI' pelo seu username real do GitHub para os cards funcionarem -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielFerreiraTelles&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielFerreiraTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+</p>
+
+<br>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFerreiraTelles&theme=github-light&bg_color=0d1117&color=7ef101&line=7ef101&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividades do Gabriel" />
 </p>
 
 ---
@@ -75,8 +81,8 @@ Tenho experiência prática na construção de aplicações de ponta a ponta, cr
 
 Sempre aberto a novos desafios, projetos e conexões no ecossistema tech.
 
-*   💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) <!-- Altere para o seu link real -->
-*   📧 **E-mail:** [seu-email@email.com](mailto:seu-email@email.com) <!-- Altere para o seu e-mail real -->
+*   💼 **LinkedIn:** [linkedin.com/in/gabriel-ferreira-telles](https://www.linkedin.com/in/gabriel-ferreira-telles/)
+*   📧 **E-mail:** [gabrielferreiratelles@gmail.com](mailto:gabrielferreiratelles@gmail.com)
 
 ---
 
