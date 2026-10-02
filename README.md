@@ -62,20 +62,6 @@ Tenho experiência prática na construção de aplicações de ponta a ponta, cr
 
 ---
 
-### 📊 Estatísticas e Linguagens Mais Utilizadas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielFerreiraTelles&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielFerreiraTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
-</p>
-
-<br>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFerreiraTelles&theme=github-light&bg_color=0d1117&color=7ef101&line=7ef101&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividades do Gabriel" />
-</p>
-
----
 
 ### 📫 Vamos nos conectar?
 
@@ -87,5 +73,5 @@ Sempre aberto a novos desafios, projetos e conexões no ecossistema tech.
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Escolha um trabalho que você ama e nunca terá que trabalhar nem um dia na sua vida"</i>
 </p>
