@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 180" width="960" height="180" role="img" aria-labelledby="title">
+  <title id="title">Desenvolvimento back-end: APIs REST, dados e containers</title>
+  <defs>
+    <linearGradient id="background">
+      <stop stop-color="#101a32"/>
+      <stop offset="1" stop-color="#123b48"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#90c9da" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="180" rx="18" fill="url(#background)"/>
+  <rect x="1" y="1" width="958" height="178" rx="17" fill="url(#grid)" stroke="#477485"/>
+  <text x="40" y="55" fill="#a6f0e4" font-family="monospace" font-size="18" letter-spacing="3">ENGENHARIA DE SOFTWARE</text>
+  <text x="40" y="108" fill="#f5faff" font-family="system-ui, sans-serif" font-weight="700" font-size="46">Desenvolvimento back-end</text>
+  <g fill="#d8f5f5" font-family="monospace" font-size="20">
+    <text x="40" y="148">APIs REST</text>
+    <text x="212" y="148">Dados</text>
+    <text x="335" y="148">Containers</text>
+  </g>
+  <path d="M154 141h36m-6-6 6 6-6 6m91-6h36m-6-6 6 6-6 6" fill="none" stroke="#6ee7ce" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#143947" stroke="#75e5d0" stroke-width="2">
+    <path d="M779 72h44l36 36h49M823 72l36-36h49"/>
+    <circle cx="779" cy="72" r="7"/>
+    <circle cx="823" cy="72" r="7"/>
+    <circle cx="908" cy="36" r="7"/>
+    <circle cx="908" cy="108" r="7"/>
+  </g>
+</svg>
