@@ -1,29 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 180" width="960" height="180" role="img" aria-labelledby="title">
-  <title id="title">Desenvolvimento back-end: APIs REST, dados e containers</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title">
+  <title id="title">Gabriel Ferreira Telles · Desenvolvedor back-end</title>
   <defs>
-    <linearGradient id="background">
-      <stop stop-color="#101a32"/>
-      <stop offset="1" stop-color="#123b48"/>
+    <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#09080f"/>
+      <stop offset="1" stop-color="#211033"/>
     </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#913eff" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#913eff" stop-opacity="0"/>
+    </radialGradient>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#90c9da" stroke-opacity=".12"/>
+      <path d="M24 0H0V24" fill="none" stroke="#9c73da" stroke-opacity=".15"/>
     </pattern>
+    <clipPath id="frame"><rect width="960" height="280" rx="22"/></clipPath>
   </defs>
-  <rect width="960" height="180" rx="18" fill="url(#background)"/>
-  <rect x="1" y="1" width="958" height="178" rx="17" fill="url(#grid)" stroke="#477485"/>
-  <text x="40" y="55" fill="#a6f0e4" font-family="monospace" font-size="18" letter-spacing="3">ENGENHARIA DE SOFTWARE</text>
-  <text x="40" y="108" fill="#f5faff" font-family="system-ui, sans-serif" font-weight="700" font-size="46">Desenvolvimento back-end</text>
-  <g fill="#d8f5f5" font-family="monospace" font-size="20">
-    <text x="40" y="148">APIs REST</text>
-    <text x="212" y="148">Dados</text>
-    <text x="335" y="148">Containers</text>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="280" fill="url(#bg)"/>
+    <rect width="960" height="280" fill="url(#grid)"/>
+    <ellipse cx="815" cy="135" rx="260" ry="180" fill="url(#glow)"/>
+    <g fill="none" stroke="#ab7aff">
+      <path d="M660 39h74l35 35h85l44 44h62M700 230h72l35-35h71l37-37h45M862 280v-35l37-37h61" opacity=".5"/>
+      <path d="m801 66 78 45v89l-78 45-78-45v-89Z" stroke-opacity=".72"/>
+      <path d="m801 84 63 36v72l-63 36-63-36v-72Z" stroke-opacity=".35"/>
+      <path d="m801 109 43 25v49l-43 25-43-25v-49Z" fill="#1d1030" stroke-width="2"/>
+      <path d="m785 148-11 10 11 10m32-20 11 10-11 10m-11-26-10 32" stroke="#e1c3ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="734" cy="39" r="4" fill="#d2abff"/>
+      <circle cx="898" cy="118" r="4" fill="#d2abff"/>
+      <circle cx="878" cy="195" r="4" fill="#d2abff"/>
+    </g>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <circle cx="49" cy="57" r="4" fill="#cf9bff"/>
+      <text x="66" y="63" fill="#d9b5ff" font-size="18" font-weight="600" letter-spacing="3">ENGENHARIA DE SOFTWARE</text>
+      <text x="44" y="132" fill="#fbf7ff" font-size="55" font-weight="700">Gabriel Ferreira Telles</text>
+      <text x="46" y="184" fill="#e4d5f6" font-size="32" font-weight="600">Desenvolvedor back-end</text>
+      <rect x="46" y="211" width="42" height="3" rx="1.5" fill="#bd8bff"/>
+      <text x="46" y="246" fill="#ceb9e9" font-size="21">APIs REST  ·  Dados  ·  Integrações web</text>
+    </g>
   </g>
-  <path d="M154 141h36m-6-6 6 6-6 6m91-6h36m-6-6 6 6-6 6" fill="none" stroke="#6ee7ce" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <g fill="#143947" stroke="#75e5d0" stroke-width="2">
-    <path d="M779 72h44l36 36h49M823 72l36-36h49"/>
-    <circle cx="779" cy="72" r="7"/>
-    <circle cx="823" cy="72" r="7"/>
-    <circle cx="908" cy="36" r="7"/>
-    <circle cx="908" cy="108" r="7"/>
-  </g>
+  <rect x="1" y="1" width="958" height="278" rx="21" fill="none" stroke="#68468d"/>
 </svg>

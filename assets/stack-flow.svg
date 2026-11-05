@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="218" viewBox="0 0 960 218" role="img" aria-labelledby="title">
+  <title id="title">Fluxo conceitual: interface web conecta à API REST, que integra o armazenamento de dados</title>
+  <rect width="960" height="218" rx="20" fill="#100b18"/>
+  <rect x="1" y="1" width="958" height="216" rx="19" fill="none" stroke="#624483"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="30" y="48" fill="#f9f2ff" font-size="29" font-weight="700">Como a stack se conecta</text>
+    <g stroke="#6f489f" fill="#1e112d">
+      <rect x="30" y="76" width="264" height="111" rx="14"/>
+      <rect x="348" y="76" width="264" height="111" rx="14" fill="#2e1748" stroke="#c08cfb" stroke-width="2"/>
+      <rect x="666" y="76" width="264" height="111" rx="14"/>
+    </g>
+    <path d="M306 132h30m-7-7 7 7-7 7m295-7h30m-7-7 7 7-7 7" fill="none" stroke="#c697ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#f9f2ff" font-size="25" font-weight="700">
+      <text x="49" y="119">01  Interface web</text>
+      <text x="367" y="119">02  API REST</text>
+      <text x="685" y="119">03  Dados</text>
+    </g>
+    <g fill="#ddc6f4" font-size="19">
+      <text x="49" y="154">React · Next.js</text>
+      <text x="367" y="154">Node.js · TypeScript</text>
+      <text x="685" y="154">PostgreSQL · Firebase</text>
+    </g>
+  </g>
+</svg>

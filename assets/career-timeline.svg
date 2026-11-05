@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="326" viewBox="0 0 960 326" role="img" aria-labelledby="title">
+  <title id="title">Linha do tempo de formação e experiência de 2023 a 2029</title>
+  <rect width="960" height="326" rx="20" fill="#100b18"/>
+  <rect x="1" y="1" width="958" height="324" rx="19" fill="none" stroke="#624483"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="30" y="45" fill="#f9f2ff" font-size="29" font-weight="700">Da formação técnica ao back-end</text>
+    <text x="31" y="76" fill="#cbb6e0" font-size="20">Formação e experiência em paralelo</text>
+    <path d="M286 128v130m92-130v130m92-130v130m92-130v130m92-130v130m92-130v130m92-130v130m92-130v130" stroke="#38284a" fill="none"/>
+    <g fill="#cbb6e0" font-size="19">
+      <text x="286" y="118">2023</text><text x="378" y="118">2024</text>
+      <text x="470" y="118">2025</text><text x="562" y="118">2026</text>
+      <text x="654" y="118">2027</text><text x="746" y="118">2028</text>
+      <text x="838" y="118">2029</text>
+    </g>
+    <g fill="#f0e4fc" font-size="22" font-weight="600">
+      <text x="30" y="157">Técnico · Etec</text>
+      <text x="30" y="202">Back-end freelancer</text>
+      <text x="30" y="247">Engenharia · UNAERP</text>
+    </g>
+    <rect x="286" y="143" width="276" height="15" rx="7.5" fill="#9d68e6"/>
+    <path d="M539 195h100m-8-7 8 7-8 7" fill="none" stroke="#dabaff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="562" y="233" width="77" height="15" rx="7.5" fill="#9d68e6"/>
+    <rect x="644" y="233" width="286" height="15" rx="7.5" fill="none" stroke="#c697ff" stroke-width="2" stroke-dasharray="6 5"/>
+    <path d="M639 133v125" stroke="#dabaff" stroke-opacity=".45" stroke-dasharray="3 4"/>
+    <rect x="31" y="281" width="22" height="10" rx="5" fill="#9d68e6"/>
+    <text x="63" y="292" fill="#ded0ee" font-size="18">Período cursado</text>
+    <path d="M258 286h22m-5-4 5 4-5 4" fill="none" stroke="#dabaff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="290" y="292" fill="#ded0ee" font-size="18">Atuação em curso</text>
+    <rect x="504" y="281" width="24" height="10" rx="5" fill="none" stroke="#c697ff" stroke-dasharray="3 2"/>
+    <text x="538" y="292" fill="#ded0ee" font-size="18">Previsão acadêmica</text>
+  </g>
+</svg>
